@@ -52,14 +52,4 @@ Contains comprehensive modules for **C, C++, Java, Python, SQL, Operating System
 
 ---
 
-## 🛠️ Running Locally
 
-Since this is a client-side static web application, it can be run using any local static file server. 
-
-To run it using node:
-1. Open your terminal in the project directory.
-2. Launch a local server using `http-server`:
-   ```bash
-   npx http-server -p 3000
-   ```
-3. Open [http://localhost:3000](http://localhost:3000) in your web browser.
