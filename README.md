@@ -1,6 +1,6 @@
 # TECH DESIRE - Academic Software & Hardware School
 
-TECH DESIRE is an ISO-9001 Certified vocational software and hardware institute training platform, established on 23rd March 2010. This platform is a fully responsive, stateful client-side Single Page Application (SPA) designed to guide student learning paths.
+TECH DESIRE is an software training platform. This platform is a fully responsive, stateful client-side Single Page Application (SPA) designed to guide student learning paths.
 
 ---
 
